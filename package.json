@@ -8,6 +8,6 @@
     "start": "npm run start --prefix backend"
   },
   "keywords": [],
-  "author": "Sumit Kushwah",
+  "author": "",
   "license": "ISC"
 }
